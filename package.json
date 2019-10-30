@@ -1,6 +1,6 @@
 {
   "name": "@bianky/bianky-helpers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/bianky-helpers.min.js",
   "types": "@types/bianky-helpers.d.ts",
