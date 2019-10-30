@@ -5,7 +5,7 @@
         "rootDir": "src/",
         "outDir": "dist/",
         "removeComments": true,
-        "noImplicitAny": true,
+        "noImplicitAny": false,
         
         /* MODULE HANDLING */
         "module": "esnext",

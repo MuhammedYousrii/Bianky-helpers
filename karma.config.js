@@ -17,7 +17,7 @@ module.exports = function (config) {
     
 
     // DISABLE SINGLE RUN
-    singleRun: true,
+    singleRun: false,
 
     // PORT FOR VIEWING
     port: 5000,
