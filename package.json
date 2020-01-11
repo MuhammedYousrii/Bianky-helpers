@@ -1,5 +1,5 @@
 {
-  "name": "@bianky/bianky-helpers",
+  "name": "bianky-helpers",
   "version": "1.0.0",
   "description": "",
   "main": "dist/bianky-helpers.min.js",

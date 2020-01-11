@@ -30,7 +30,7 @@ const PLUGINS = [
       verbose: true,
   }),
 
-  // new htmlWebpackPlugin()
+  new htmlWebpackPlugin()
 
 //   new copyWebpackPlugin([{
 //     from: "package.json",
